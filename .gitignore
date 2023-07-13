@@ -1,5 +1,8 @@
 build/
 build_wasm/
 build_clang/
+dep/
+zig-out/
+zig-cache/
 doc/html/
 oup.sublime-workspace
